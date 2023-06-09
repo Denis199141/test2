@@ -1,0 +1,23 @@
+*{
+  margin: 0;  
+  padding: 0;
+}
+body {font-family: 'Montserrat', sans-serif;}
+header {background-color: aqua;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+/logo {
+    width: 50px;
+    display: block;
+    margin: 0 auto;
+}
+h2 {text-align: block;
+margin: 0 auto;}
